@@ -1,0 +1,8 @@
+{
+    "testuser": {
+        "password": "$2b$12$DQ5tme78OPtqF0Uvo1u5LeyVU9JjIGVt26SMIKM1aqE6IU7LCExUq",
+        "role": "user",
+        "failed_attempts": 0,
+        "locked_until": 0
+    }
+}
